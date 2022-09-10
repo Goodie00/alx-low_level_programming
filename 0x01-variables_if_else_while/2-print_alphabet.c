@@ -3,15 +3,16 @@
 /**
  * main - lowercase alphabets
  *
+ * Description: using the main function
  * Return: Always (Success)
  */
 int main(void)
 {
 
 	char c;
-	for (ch = 'a'; ch <= 'z'; ch++)
+	for (c = 'a'; c <= 'z'; c++)
 	{
-		putchar(C);
+		putchar(c);
 	}
 	putchar('\n');
 	return (0);
