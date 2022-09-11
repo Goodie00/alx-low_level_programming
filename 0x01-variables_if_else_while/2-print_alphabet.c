@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - lowercase alphabets
+ * main - prints if the number is positive, zero or negative
  *
  * Description: using the main function
  * this program prints "Programming is positive, zero or negative"
@@ -9,7 +9,7 @@
 int main(void)
 {
  	char c;
-	for (c = 'a'; c <= 'z'; c++);
+	for (c = 'a'; c <= 'z'; c++)
 	{
 		putchar(c);
 	}
