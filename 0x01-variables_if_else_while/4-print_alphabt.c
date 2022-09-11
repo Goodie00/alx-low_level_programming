@@ -1,5 +1,6 @@
 #include <stdio.h>
 /**
+ * main - main block
  * Description: using the main function
  * this program prints "Programming is positive, zero or negative"
  * Return: 0
@@ -16,6 +17,5 @@ int main (void)
 		c++;
 	}
 	putchar('\n');
-	return (0)
+	return (0);
 }
-
