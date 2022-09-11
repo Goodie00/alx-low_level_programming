@@ -5,10 +5,11 @@
  * this program prints "Programming is positive, zero or negative"
  * Return: 0
  */
-int main (void)
+int main(void)
 {
-	char c ='a';
+	char c = 'a';
 	while (c <= 'z')
+
 	{
 		if (c != 'e' && c != 'q')
 		{
