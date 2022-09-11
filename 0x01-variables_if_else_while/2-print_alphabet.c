@@ -1,9 +1,10 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
  * main - lowercase alphabets
  *
  * Description: using the main function
- * Return: Always (Success)
+ * this program prints "Programming is positive, zero or negative"
+ * Return: 0
  */
 int main(void)
 {
