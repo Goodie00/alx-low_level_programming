@@ -2,20 +2,20 @@
 #include <stdio.h>
 
 /**
- * print_to_98.c - print all natural numbers from n to 98
+ * print_to_98 - print all natural numbers from n to 98
  * @n: The number to start counting from n to 98
  * Return: Always 0
  */
-void print_to_98.c(int n)
+void print_to_98(int n)
 {
 	while (n < 98)
 	{
-		printf("%1, ", n);
+		printf("%i, ", n);
 		n++;
 	}
 	while (n > 98)
 	{
-		printf("%1, ", n);
+		printf("%i, ", n);
 		n--;
 	}
 	printf("98");
