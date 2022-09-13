@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * print_alphabeth - function to print abc
+ * print_alphabet
  *
  * Return: 0
  */
-void print_alphabeth(void)
+void print_alphabet(void)
 {
 	char c;
 
