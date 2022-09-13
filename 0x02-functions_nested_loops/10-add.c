@@ -5,7 +5,7 @@
  * add - Adds two numbers.
  * @a: print int a
  * @b: print int b
- * Result: The result of the addition.
+ * Result: Always 0
  */
 
 int add(int a, int b)
