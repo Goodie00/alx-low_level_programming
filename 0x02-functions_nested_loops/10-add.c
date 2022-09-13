@@ -3,12 +3,12 @@
 
 /**
  * add - Adds two numbers.
- * @num1: The first added integer.
- * @num2: The second added integer.
- *
+ * @a: print int a
+ * @b: print int b
  * Result: The result of the addition.
  */
-int add(int num1, int num2)
+
+int add(int a, int b)
 {
-	return (num1 + num2);
+	return (a + b);
 }
