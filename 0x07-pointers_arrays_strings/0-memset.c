@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _memset - Entry point
- * @s: pointed destination
- * @b: constant byte
- * @n: bytes
+ * _memset - fill a block of memory
+ * @s: starting address
+ * @b: value
+ * @n: no of bytes
  * Return: Always 0 (Success)
  */
 char *_memset(char *s, char b, unsigned int n)
